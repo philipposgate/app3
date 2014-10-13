@@ -4,3 +4,7 @@
 # but you can also edit it by hand.
 
 meteor-platform
+iron:router
+rnosov:accounts-entry
+mizzao:bootstrap-3
+

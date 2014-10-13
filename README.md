@@ -1,3 +1,3 @@
 # app3
 
-Another Meteor test-app.  Built with Meteor v09.3.1
+Another Meteor test-app.  Built with Meteor v0.9.4
