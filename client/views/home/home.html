@@ -1,0 +1,26 @@
+<template name="home">
+    <p>Template home</p>
+    
+    <div class="alert alert-success">
+		{{#if currentUser}}
+			{{#if isAdminUser}}
+				i am an admin user.
+			{{else}}
+				i am a regular user.
+			{{/if}}    
+		{{else}}
+			i am not logged in.
+		{{/if}}    
+    </div>
+	<span class="alert alert-warning">
+		foo
+	</span>
+</template>
+
+<template name="about">
+    about
+</template>
+
+<template name="contact">
+    contact
+</template>
